@@ -1,0 +1,8 @@
+appplication.properties
+br\com\devdojo\awesome\ApplicationStart.class
+br\com\devdojo\awesome\endpoint\StudentEndpoint.class
+br\com\devdojo\awesome\util\DateUtil.class
+br\com\devdojo\awesome\error\CustomErrorType.class
+br\com\devdojo\awesome\model\AbstractEntity.class
+br\com\devdojo\awesome\repository\StudentRepository.class
+br\com\devdojo\awesome\model\Student.class
